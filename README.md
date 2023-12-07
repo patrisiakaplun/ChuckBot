@@ -1,4 +1,4 @@
-# ChuckBot - Chuck Norris Jokes Telegram Bot
+![IMG_6200](https://github.com/patrisiakaplun/ChuckBot/assets/101580389/c18a26f4-ff71-45ed-bd42-7f73b3bb60fc)# ChuckBot - Chuck Norris Jokes Telegram Bot
 ChuckBot is a Telegram bot written in Node.js and JavaScript that provides users with Chuck Norris jokes.
 The bot utilizes web scraping to extract jokes from [the "101 Chuck Norris Jokes To Make You Laugh"](https://parade.com/968666/parade/chuck-norris-jokes/) website in real-time. 
 Additionally, it leverages the Google Cloud Translate API to translate jokes from English to the user's preferred language. 
@@ -21,7 +21,7 @@ Start a conversation with ChuckBot by visiting the bot's page: [@Chuck_2023_bot]
 * /help: Show help.
 
 # Screenshot
-![image](https://github.com/patrisiakaplun/chuck-norris-telegram-bot/assets/101580389/bf10f790-f7a7-4e2b-aebc-3f8adb21f2d8)
+![image](images/IMG_6200.PNG)
 
-![image](https://github.com/patrisiakaplun/chuck-norris-telegram-bot/assets/101580389/68096f88-8624-4a0f-a6e6-cff8a5ecb33e)
+![image](images/IMG_6201.PNG)
 
