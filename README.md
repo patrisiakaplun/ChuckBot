@@ -23,5 +23,5 @@ Start a conversation with ChuckBot by visiting the bot's page: [@Chuck_2023_bot]
 # Screenshot
 ![image](images/IMG_6200.PNG)
 
-![image](images/IMG_6201.PNG)
+![image](images/IMG_6204.PNG)
 
