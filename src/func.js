@@ -50,7 +50,7 @@ const translateText = async (text, targetLang) => {
     return translation[0];
 };
 
-/* Function to handle a user's joke request by fetching jokes, validating the requested joke number,
+/* Function to handle a user's joke request by validating the requested joke number, 
  * translating the joke and sending the translated joke
  * as a Telegram message */
 const handleJokeRequest = async (bot, jokes, msg, jokeNumber, userLanguageCode) => {
